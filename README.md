@@ -1,2 +1,2 @@
 # prompt_pilot
-making your prompt more clear and filtered
+Making your prompt more clear and filtered
